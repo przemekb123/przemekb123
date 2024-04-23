@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @przemekb123
-- 👀 I’m interested in: Front-end web development
+- 👀 I’m interested in: 
 - 🌱 I’m currently learning: three.js, angular
-- 💞️ I’m looking to collaborate on: website design and development
+- 💞️ I’m looking to collaborate on: Java or Java Spring Boot projects
 - 📫 How to reach me: przemyslawbaj8@gmail.com
 
 <!---
